@@ -61,7 +61,7 @@ const TableUI = () => {
 
       {/* WBC Table */}
       <table className="min-w-full border-collapse border border-gray-300 mb-4">
-        <thead className="bg-green-200">
+        <thead className="bg-[#7bbc89]">
           <tr>
             <th className="border border-gray-300 px-4 py-2 text-left">WBC</th>
             <th className="border border-gray-300 px-4 py-2 text-left">
@@ -98,7 +98,7 @@ const TableUI = () => {
 
       {/* Platelets Table */}
       <table className="min-w-full border-collapse border border-gray-300 mb-4">
-        <thead className="bg-green-200">
+        <thead className="bg-[#7bbc89]">
           <tr>
             <th className="border border-gray-300 px-4 py-2 text-left">
               Platelets
